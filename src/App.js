@@ -12,6 +12,8 @@ export default function App() {
       <div className="home">
         <AstroPic />
       </div>
+      {/* <span className="star"></span> */}
+      {/* <span className="star star4"></span> */}
     </BrowserRouter>
   );
 }

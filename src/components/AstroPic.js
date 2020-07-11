@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 
 const apiKey = process.env.REACT_APP_API_KEY;
-console.log(apiKey)
 
 export default function Apod() {
     const [photoData, setPhotoData] = useState(null);
@@ -14,7 +13,6 @@ export default function Apod() {
         );
             const data = await res.json();
             setPhotoData(data);
-            console.log(data);
         }
     }, []);
     if(!photoData) return <div/>
@@ -37,4 +35,3 @@ export default function Apod() {
         </div>
     );
 }
-
