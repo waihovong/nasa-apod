@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nasa-apod/static/css/main.5fdaa990.chunk.css",
-    "main.js": "/nasa-apod/static/js/main.c2c096bd.chunk.js",
-    "main.js.map": "/nasa-apod/static/js/main.c2c096bd.chunk.js.map",
-    "runtime-main.js": "/nasa-apod/static/js/runtime-main.868f97fb.js",
-    "runtime-main.js.map": "/nasa-apod/static/js/runtime-main.868f97fb.js.map",
-    "static/js/2.670bd624.chunk.js": "/nasa-apod/static/js/2.670bd624.chunk.js",
-    "static/js/2.670bd624.chunk.js.map": "/nasa-apod/static/js/2.670bd624.chunk.js.map",
-    "index.html": "/nasa-apod/index.html",
-    "precache-manifest.26ece96725d38322ea744480987aacb1.js": "/nasa-apod/precache-manifest.26ece96725d38322ea744480987aacb1.js",
-    "service-worker.js": "/nasa-apod/service-worker.js",
-    "static/css/main.5fdaa990.chunk.css.map": "/nasa-apod/static/css/main.5fdaa990.chunk.css.map",
-    "static/js/2.670bd624.chunk.js.LICENSE.txt": "/nasa-apod/static/js/2.670bd624.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/nasa-apod/static/media/mason-field-efLEMOPlPW8-unsplash.8780ec27.jpg"
+    "main.css": "./static/css/main.bac84794.chunk.css",
+    "main.js": "./static/js/main.a425ef67.chunk.js",
+    "main.js.map": "./static/js/main.a425ef67.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.32ea5d29.js",
+    "runtime-main.js.map": "./static/js/runtime-main.32ea5d29.js.map",
+    "static/js/2.96a563a7.chunk.js": "./static/js/2.96a563a7.chunk.js",
+    "static/js/2.96a563a7.chunk.js.map": "./static/js/2.96a563a7.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d63b92db472c4124d15862d7f8ac8f79.js": "./precache-manifest.d63b92db472c4124d15862d7f8ac8f79.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.bac84794.chunk.css.map": "./static/css/main.bac84794.chunk.css.map",
+    "static/js/2.96a563a7.chunk.js.LICENSE.txt": "./static/js/2.96a563a7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/mason-field-efLEMOPlPW8-unsplash.8780ec27.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.868f97fb.js",
-    "static/js/2.670bd624.chunk.js",
-    "static/css/main.5fdaa990.chunk.css",
-    "static/js/main.c2c096bd.chunk.js"
+    "static/js/runtime-main.32ea5d29.js",
+    "static/js/2.96a563a7.chunk.js",
+    "static/css/main.bac84794.chunk.css",
+    "static/js/main.a425ef67.chunk.js"
   ]
 }
