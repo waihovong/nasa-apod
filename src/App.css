@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
 html, body {
   margin: 0;
@@ -6,13 +7,13 @@ html, body {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background-image: url('../src/images/mason-field-efLEMOPlPW8-unsplash.jpg');
+  background-image: url('../src/images/eddie.jpg');
   background-size: 100% 100%;
   position: absolute;
   overflow-y: scroll;
   scrollbar-width: none;
   -ms-overflow-style: none;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Raleway', sans-serif;
 }
 ::-webkit-scrollbar {
   display: none;
